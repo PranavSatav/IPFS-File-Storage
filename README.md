@@ -2,6 +2,8 @@
 
 npx create-react-app demo
 
+cd demo
+
 code .
 
 app.js >>
