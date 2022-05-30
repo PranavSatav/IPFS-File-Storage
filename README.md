@@ -15,6 +15,7 @@ app.js >>
 
     const App = () => {
     const [multipleFilesUrl, setMultipleFilesUrl] = useState('')
+
     return (
         <div>
             <MultipleFilesUpload setUrl={setMultipleFilesUrl} />
@@ -26,9 +27,10 @@ app.js >>
                 {multipleFilesUrl}
             </a>
         </div>
-    ) }
+    )
+    }
 
-    export default App;
+    export default App
 
 
 yarn start
