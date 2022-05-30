@@ -1,12 +1,12 @@
 # IPFS-File-Storage
 
-npx create-react-app demo
+Step 1 : npx create-react-app demo
 
-cd demo
+Step 2 : cd demo
 
-code .
+Step 3 : code .
 
-app.js >>
+Step 4 : app.js >>
 
 
     // MultipleFilesUpload Component : Uploads Multiple files to IPFS and returns the URL
@@ -33,4 +33,4 @@ app.js >>
     export default App
 
 
-yarn start
+Step 5 : yarn start
