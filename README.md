@@ -37,4 +37,4 @@ Step 4 : app.js >>
     export default App
 
 
-Step 5 : yarn start
+Step 5 : yarn start / npm start
