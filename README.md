@@ -1,4 +1,8 @@
 # IPFS-File-Storage
+Requirements - https://nodejs.org/en/download/
+
+node -v //retrieves the nodejs version
+
 
 Step 1 : npx create-react-app demo
 
