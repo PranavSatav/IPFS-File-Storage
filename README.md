@@ -1,4 +1,4 @@
-# IPFS-File-Storage
+# IPFS-File-Storage [Deprecated]
 Requirements - https://nodejs.org/en/download/
 
 node -v //retrieves the nodejs version
